@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\bin\Debug\Datagridview kullanımı(ekleme).exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\bin\Debug\Datagridview kullanımı(ekleme).exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\bin\Debug\Datagridview kullanımı(ekleme).pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\obj\Debug\Datagridview kullanımı(ekleme).csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\obj\Debug\Datagridview_kullanımı_ekleme_.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\obj\Debug\Datagridview_kullanımı_ekleme_.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\obj\Debug\Datagridview kullanımı(ekleme).csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\obj\Debug\Datagridview kullanımı(ekleme).exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Datagridview kullanımı(ekleme)\Datagridview kullanımı(ekleme)\obj\Debug\Datagridview kullanımı(ekleme).pdb
